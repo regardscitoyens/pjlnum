@@ -1,5 +1,5 @@
-%**Pour un renforcement les dispositions Open Data**
-%**Projet de loi « Pour une République Numérique »**
+%**Pour un renforcement des dispositions Open Data**
+%**Projet de loi « Pour une République numérique »**
 %![](logo.png "")
 
 \newpage
@@ -22,7 +22,7 @@ Cette option présente de plus l'avantage d'intégrer l'Open Data au processus c
  
 \newpage
 
-#Rendre compatibles redevances et Open Data
+#Rendre compatibles Redevances et Open Data
 
 ##Après l'article 6
 
@@ -95,7 +95,7 @@ Aujourd'hui, faute de précision, des données portant sur la probité d'agents 
 
 Cette disposition s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
 
-##Documents électorniques et archives 
+##Documents électroniques et archives 
 
 ###Article 4
 
@@ -143,7 +143,7 @@ Cet amendement vise à s'assurer que lorsque des agents publics possèdent des d
 
 Cette disposition permettra de résoudre les problèmes rencontrés par certaines administrations dans la libération de données publiques (base Mérimée, accès à la doctrine, fond de documentation des armées...).
 
-##Reforcer la limitation des Licences
+##Renforcer la limitation des Licences
  
 ###Article 7
 
