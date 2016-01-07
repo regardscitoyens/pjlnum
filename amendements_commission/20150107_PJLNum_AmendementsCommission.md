@@ -253,7 +253,7 @@ Au premier alinéa de l'article L. 342-1 du code des relations entre le public e
 ###Exposé des motifs
 
 Les deux chambres françaises font figure d'exemple dans le monde pour la diversité et quasi-exhaustivité de la publication de leurs documents parlementaires. Les dernières avancées en la matière avec les programmes Open Data de l'Assemblée comme du Sénat, la publication de la réserve parlementaire, de rattachement financier aux partis politiques ou encore du registre des représentants d'intérêts, montrent l'engagement continu du Parlement français pour une transparence forte.
-L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement légitimable par la seule séparation des pouvoirs.
+L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement explicable par la seule séparation des pouvoirs.
 
 #Transparence des algorithmes
 
