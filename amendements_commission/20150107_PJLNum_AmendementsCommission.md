@@ -1,8 +1,4 @@
-%**Pour un renforcement des dispositions Open Data**
-%**Projet de loi « Pour une République numérique »**
 %![](logo.png "")
-
-\newpage
 
 #Inscrire le citoyen au cœur de l'Open Data à la française
 
@@ -20,8 +16,6 @@ Cette option présente de plus l'avantage d'intégrer l'Open Data au processus c
 
 À titre d'exemple, malgré trois ans de combat, Hervé Lebreton de l'Association pour une Démocratie Directe n'a toujours pas obtenu la publication en Open Data de la réserve parlementaire de 2011 et 2012 en Open Data par Bercy. Si ce ministère a publié la version 2013, elle l'a fait dans un format non réutilisable (PDF), la conversion en Open Data par Regards Citoyens a pris plusieurs jours/hommes à l'association. La version 2014 n'a toujours pas été publiée.
  
-\newpage
-
 #Rendre compatibles Redevances et Open Data
 
 ##Après l'article 6
@@ -43,8 +37,6 @@ Cette pratique est qualifiée de politique de "double licences". Elle permet d'a
 
 Cet amendement vise donc à lever les barrières économiques lorsque le réutilisateur joue le jeu de la contribution.
  
-\newpage
-
 #Amélioration des dispositions Open Data du gouvernement
 
 ##Limite de 250 agents peu pertinente
@@ -196,8 +188,6 @@ Afin de permettre à tous les citoyens et leurs représentants d'évaluer la per
 
 Cette disposition d'Open Data pour les PPP a été l'une des plus soutenues sur la plateforme de consultation « Pour une République numérique ».
  
-\newpage
-
 #Équilibre des pouvoirs entre la CNIL et la CADA
 
 ##La CADA doit être plus consultée
@@ -230,8 +220,6 @@ Pour renforcer les avis de la CNIL notamment sur un projet de loi, il semble imp
 
 Cette disposition pose de plus un problème d'interprétation entre la CADA et la CNIL : la première estimant que les avis sont accessibles aux citoyens dès la publication du décret ou du projet de loi, la seconde estimant qu'il ne peut être rendu public que lorsqu'un président de commission le demande. Malgré un avis de la CADA relatif à la délibération de la CNIL n°2012-125, la CNIL a eu beaucoup de mal à se rallier au point de vue de la CADA. Il semble donc bon d'éclaircir les imprécisions actuelles de la loi sur cette question.
  
-\newpage
-
 #Un droit d'accès à l'empreinte législative
 
 ##Publicité des avis du Conseil d'État
@@ -256,8 +244,6 @@ Au 2) de l'article L. 311-5 du code des relations entre le public et l'administr
 
 S'il semble naturel que les délibérations de l'éxécutif puissent être sereinement menées dans le respect du secret, il est important, une fois les décisions prises, que les citoyens comme leurs représentants puissent prendre connaissance du processus délibératif ayant été mené au sein de l'executif.
 
-\newpage
-
 ##Le Parlement, une administration ouverte
 
 ###Après l'article 16
@@ -268,8 +254,6 @@ Au premier alinéa de l'article L. 342-1 du code des relations entre le public e
 
 Les deux chambres françaises font figure d'exemple dans le monde pour la diversité et quasi-exhaustivité de la publication de leurs documents parlementaires. Les dernières avancées en la matière avec les programmes Open Data de l'Assemblée comme du Sénat, la publication de la réserve parlementaire, de rattachement financier aux partis politiques ou encore du registre des représentants d'intérêts, montrent l'engagement continu du Parlement français pour une transparence forte.
 L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement légitimable par la seule séparation des pouvoirs.
-
-\newpage
 
 #Transparence des algorithmes
 
