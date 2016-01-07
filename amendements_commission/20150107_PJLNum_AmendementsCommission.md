@@ -47,7 +47,7 @@ Cet amendement vise donc à lever les barrières économiques lorsque le réutil
 
 #Amélioration des dispositions Open Data du gouvernement
 
-##Limite de 250 agents peu pertinante
+##Limite de 250 agents peu pertinente
 
 ###Article 4
 
@@ -71,7 +71,7 @@ Certaines bases comme la base Mérimée ou celle des indicateurs financiers des 
 
 Afin de mieux valoriser le travail réalisé dans la constitution de ces données, il faut les inclure pleinement dans l'Open Data.
  
-##Open Data et intérêt économique, social ou environnementale 
+##Open Data et intérêt économique, social ou environnemental
 
 ###Article 4
 
@@ -107,16 +107,6 @@ Les archives font un formidable effort de selection et de numérisation du patri
 
 Si pour les documents non numérisés, il semble trop problématique de les rendre librement accessibles aux citoyens, rien ne fait obstacle à leur communication à tous lorsque ces documents existent sous une forme dématérialisée.
 
-##Standard ouvert obligatoire pour la réutilisation
-
-###Article 6
-
-À l'alinéa 3, supprimer les mots « , si possible, ».
-
-###Exposé des motifs
-
-L'emploi des formats ouverts est particulièrement important pour les réutilisateurs et constitue l'une des conditions indispensables à une politique Open Data. Les rendre facultatifs alors qu'ils sont obligatoires à l'article 4 portant sur la communication ne semble pas cohérent.
-
 ##Formulation juridique de « Lisible par une machine »
 
 ###Article 6
@@ -131,6 +121,16 @@ Des données publiées sous la forme de documents PDF seraient techniquement "li
 
 De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
 
+##Standard ouvert obligatoire pour la réutilisation
+
+###Article 6
+
+À l'alinéa 3, supprimer les mots « , si possible, ».
+
+###Exposé des motifs
+
+L'emploi des formats ouverts est particulièrement important pour les réutilisateurs et constitue l'une des conditions indispensables à une politique Open Data. Les rendre facultatifs alors qu'ils sont obligatoires à l'article 4 portant sur la communication ne semble pas cohérent.
+
 ##Droit d'auteur des fonctionnaires et Open Data 
 
 ###Article 7
@@ -143,7 +143,7 @@ Cet amendement vise à s'assurer que lorsque des agents publics possèdent des d
 
 Cette disposition permettra de résoudre les problèmes rencontrés par certaines administrations dans la libération de données publiques (base Mérimée, accès à la doctrine, fond de documentation des armées...).
 
-##Renforcer la limitation des Licences
+##Renforcer la limitation des licences
  
 ###Article 7
 
@@ -170,7 +170,7 @@ Aux alinéas 2 et 4, supprimer les mots « à titre gratuit ou onéreux ».
 
 Amendement de clarification : cette notion n'étant pas utilisée dans les autres articles, il ne paraît pas opportun de l'utiliser dans ce seul article.
  
-##Les délégataires de service public ne peuvent être exemptés
+##Pas d'exception à la publication des données des DSP
 
 ###Article 10
 
@@ -222,7 +222,7 @@ Pour les dispositions de transparence relatives au scandale Cahuzac ou celui du 
 
 Compléter le 1° d'un troisième alinéa ainsi rédigé :
 
-« Au troisième alinéa, réécrire la seconde phrase comme suit : " L'avis de la commission est rendu public. " ; »
+« Au troisième alinéa, réécrire la seconde phrase comme suit : "L'avis de la commission est rendu public." ; »
 
 ###Exposé des motifs
 
@@ -255,6 +255,8 @@ Au 2) de l'article L. 311-5 du code des relations entre le public et l'administr
 ###Exposé des motifs
 
 S'il semble naturel que les délibérations de l'éxécutif puissent être sereinement menées dans le respect du secret, il est important, une fois les décisions prises, que les citoyens comme leurs représentants puissent prendre connaissance du processus délibératif ayant été mené au sein de l'executif.
+
+\newpage
 
 ##Le Parlement, une administration ouverte
 
