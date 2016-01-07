@@ -1,22 +1,18 @@
-%Projet de loi Numérique
-%**Pour un renforcement les dispositions OpenData**
+%**Pour un renforcement les dispositions Open Data**
+%**Projet de loi « Pour une République Numérique »**
 %![](logo.png "")
 
 \newpage
 
 #Inscrire le citoyen au cœur de l'Open Data à la française
 
-
 ##Article 4
-
 
 Ajouter une section IV ainsi rédigée :
 
-« IV. - À la fin de l'article L311-9, ajouter un alinéa ainsi rédigé :
- "4° Par publications régulières en ligne dans un standard ouvert librement réutilisable et pouvant être exploité par un système de traitement automatisé." »
+« IV. - À la fin de l'article L311-9, ajouter un alinéa ainsi rédigé : " 4° Par publications régulières en ligne dans un standard ouvert librement réutilisable et pouvant être exploité par un système de traitement automatisé. " »
 
 ##Exposé des motifs
-
 
 L'intérêt d'inscrire l'Open Data dans la loi est de permettre au citoyen de pouvoir solliciter une publication en Open Data des données détenues par l'administration. Cet amendement vise à améliorer les propositions du gouvernement afin de permettre au citoyen de demander lui-même de l'Open Data au même titre que la communication d'un document.
 
@@ -32,7 +28,9 @@ Cette option présente de plus l'avantage d'intégrer l'Open Data au processus c
 
 Ajouter un nouvel article ainsi rédigé :
 
-« Ajouter à l’article 15 de la loi n°78-753 du 17 juillet 1978, l’alinéa suivant : "L’administration ne peut soumettre à redevance les demandes de réutilisations dont les données résultantes sont soumises à une rediffusion publique exhaustive sous un format ouvert et dont la libre réutilisation est autorisée dans les mêmes termes." »
+« Ajouter à l’article 15 de la loi n°78-753 du 17 juillet 1978, l’alinéa suivant : 
+
+"L’administration ne peut soumettre à redevance les demandes de réutilisations dont les données résultantes sont soumises à une rediffusion publique exhaustive sous un format ouvert et dont la libre réutilisation est autorisée dans les mêmes termes."  »
 
 ##Exposé des motifs
 
@@ -69,12 +67,10 @@ Par ailleurs, le coût de publication en ligne est quasi nul grâce au travail d
 
 ###Exposé des motifs
 
-
 Certaines bases comme la base Mérimée ou celle des indicateurs financiers des collectivités territoriales font l'objet de diffusion publique. Mais les données publiées, parfois partiellement, n'étant pas publiées en Open Data, elles ne peuvent être facilement réutilisées.
 
 Afin de mieux valoriser le travail réalisé dans la constitution de ces données, il faut les inclure pleinement dans l'Open Data.
  
-
 ##Open Data et intérêt économique, social ou environnementale 
 
 ###Article 4
@@ -226,7 +222,7 @@ Pour les dispositions de transparence relatives au scandale Cahuzac ou celui du 
 
 Compléter le 1° d'un troisième alinéa ainsi rédigé :
 
-« Au troisième alinéa, réécrire la seconde phrase comme suit : "L'avis de la commission est rendu public." ; »
+« Au troisième alinéa, réécrire la seconde phrase comme suit : " L'avis de la commission est rendu public. " ; »
 
 ###Exposé des motifs
 
@@ -234,16 +230,17 @@ Pour renforcer les avis de la CNIL notamment sur un projet de loi, il semble imp
 
 Cette disposition pose de plus un problème d'interprétation entre la CADA et la CNIL : la première estimant que les avis sont accessibles aux citoyens dès la publication du décret ou du projet de loi, la seconde estimant qu'il ne peut être rendu public que lorsqu'un président de commission le demande. Malgré un avis de la CADA relatif à la délibération de la CNIL n°2012-125, la CNIL a eu beaucoup de mal à se rallier au point de vue de la CADA. Il semble donc bon d'éclaircir les imprécisions actuelles de la loi sur cette question.
  
-#Un droit d'accès pour l'empreinte législative
+\newpage
+
+#Un droit d'accès à l'empreinte législative
 
 ##Publicité des avis du Conseil d'État
 
 ###Après l'article 16
 
-Au deuxième alinéa de l'article L. 311-5 du code des relations entre le public et l'administration, supprimer les mots "du Conseil d'État et".
+Au deuxième alinéa de l'article L. 311-5 du code des relations entre le public et l'administration, supprimer les mots « du Conseil d'État et ».
 
 ###Exposé des motifs
-
 
 Les avis du Conseil d'État sont aujourd'hui systématiquement publiés lorsque cette institution est saisie sur un projet de loi suite à un engagement du Président de la République.
 
@@ -276,7 +273,7 @@ L'exception au droit des citoyens à saisir la CADA sur un possible refus d'acc�
 
 ##Article 2
 
-À l'alinéa 2, insérer après "sa mise en œuvre" les mots suivants : "et la recette d'un logiciel l'implémentant le cas échéant".
+À l'alinéa 2, insérer après « sa mise en œuvre » les mots suivants : « et la recette d'un logiciel l'implémentant le cas échéant ».
 
 ##Exposé des motifs
 
