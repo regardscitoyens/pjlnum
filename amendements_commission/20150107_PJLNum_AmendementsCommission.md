@@ -1,5 +1,3 @@
-%![](logo.png "")
-
 #Inscrire le citoyen au cœur de l'Open Data à la française
 
 ##Article 4
