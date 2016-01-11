@@ -4,7 +4,8 @@
 
 Ajouter une section IV ainsi rédigée :
 
-« IV. - À la fin de l'article L311-9, ajouter un alinéa ainsi rédigé : " 4° Par publications régulières en ligne dans un standard ouvert librement réutilisable et pouvant être exploité par un système de traitement automatisé. " »
+« IV. - À la fin de l'article L311-9, ajouter un alinéa ainsi rédigé :
+"4° Par publications régulières en ligne dans un standard ouvert librement réutilisable et pouvant être exploité par un système de traitement automatisé." »
 
 ##Exposé des motifs
 
@@ -251,17 +252,18 @@ Au premier alinéa de l'article L. 342-1 du code des relations entre le public e
 ###Exposé des motifs
 
 Les deux chambres françaises font figure d'exemple dans le monde pour la diversité et quasi-exhaustivité de la publication de leurs documents parlementaires. Les dernières avancées en la matière avec les programmes Open Data de l'Assemblée comme du Sénat, la publication de la réserve parlementaire, de rattachement financier aux partis politiques ou encore du registre des représentants d'intérêts, montrent l'engagement continu du Parlement français pour une transparence forte.
-L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement justifiable par la seule séparation des pouvoirs.
+
+L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire fait tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement justifiable par la seule séparation des pouvoirs.
 
 #Transparence des algorithmes
 
 ##Article 2
 
-À l'alinéa 2, insérer après « sa mise en œuvre » les mots suivants : « et la recette d'un logiciel l'implémentant le cas échéant ».
+À l'alinéa 2, insérer après « sa mise en œuvre » les mots suivants : « et le code-source d'un logiciel l'implémentant le cas échéant ».
 
 ##Exposé des motifs
 
-Amendement de clarification : lorsque le mécanisme décisionnel est pris en application d'un algorithme par le biais d'un programme informatique, seule la publication du code source de ce logiciel peut assurer la transparence de l'application de la décision automatisée.
+Amendement de clarification : lorsque le mécanisme décisionnel est pris en application d'un algorithme par le biais d'un programme informatique, seule la publication du code-source de ce logiciel peut assurer la transparence de l'application de la décision automatisée.
 
 Lorsque ce logiciel produit des données publiques, cette disposition permettra de mieux comprendre comment sont produites les données.
 
