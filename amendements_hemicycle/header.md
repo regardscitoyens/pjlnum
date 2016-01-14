@@ -1,4 +1,4 @@
-%**Pour un renforcement des dispositions Open Data**
-%**Projet de loi « Pour une République numérique »**
+%**PJL Numérique et Open Data**
+%**Les propositions de Regards Citoyens pour la séance publique**
 %![](logo.png "")
 
