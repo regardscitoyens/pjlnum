@@ -236,6 +236,7 @@ Cette disposition d'Open Data pour les PPP a été l'une des plus soutenues sur 
 Ajouter un article additionnel ainsi rédigé :
 
 « Après l'article L. 342-3 du Code des relations entre le public et l'administration, ajouter un article additionnel L. 342-3-1 ainsi rédigé :
+
 "La commission est consultée sur tout projet de loi ou de décret relatif à la communication, la publication ou la réutilisation de données publiques. L'avis de la commission est rendu public." »
 
 ###Exposé des motifs
@@ -244,8 +245,7 @@ S'il est normal que la CNIL soit consultée sur les dispositions relatives aux d
 
 Pour les dispositions de transparence relatives au scandale Cahuzac ou celui du Médiator, l'avis de la CADA aurait permis d'équilibrer certaines prises de décision.
  
-
-#Droit d'accès pour une meilleure empreinte législative
+#Transparence de l'empreinte législative
 
 ##Après l'article 16
 
@@ -257,7 +257,7 @@ Les avis du Conseil d'État sont aujourd'hui systématiquement publiés lorsque 
 
 Cet amendement vise à inscrire cet engagement durablement dans la loi.
 
-De plus, les avis du conseil donnés suite à une question posée par le gouvernement sont en général très riche et éclairant sur le droit français. Il convient donc de les rendre public une fois la décision du gouvernement prise.
+De plus, les avis du Conseil donnés suite à une question posée par le gouvernement sont en général très riches et éclairant sur le droit français. Il convient donc de les rendre public une fois la décision du gouvernement prise.
 
 ##Après l'article 16
 
@@ -275,5 +275,7 @@ Au premier alinéa de l'article L. 342-1 du code des relations entre le public e
 
 Les deux chambres françaises font figure d'exemple dans le monde pour la diversité et quasi-exhaustivité de la publication de leurs documents parlementaires. Les dernières avancées en la matière avec les programmes Open Data de l'Assemblée comme du Sénat, la publication de la réserve parlementaire, de rattachement financier aux partis politiques ou encore du registre des représentants d'intérêts, montrent l'engagement continu du Parlement français pour une transparence forte.
 
-L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement légitimable par la seule séparation des pouvoirs. En effet entre 1978 et 2000, les parlement étaient pleinement soumis aux dispositions de la loi CADA. De plus, dans un rapport de 1999, la 7ème sous-section de l'Assemblée du contentieux du Conseil d'état a estimé que la séparation des pouvoirs ne s'opposait pas à ce que l'Assemblée Nationale soit soumise aux règles administratives en vigueur.
+L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire fait tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement justifiable par la seule séparation des pouvoirs.
+
+En effet entre 1978 et 2000, le parlement était pleinement soumis aux dispositions de la loi CADA. De plus, dans un rapport de 1999, la 7ème sous-section de l'Assemblée du contentieux du Conseil d'État a estimé que la séparation des pouvoirs ne s'opposait pas à ce que l'Assemblée nationale soit soumise aux règles administratives en vigueur.
 
