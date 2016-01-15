@@ -141,7 +141,7 @@ Ajouter un nouvel article ainsi rédigé :
 
 « Ajouter à l’article 15 de la loi n°78-753 du 17 juillet 1978, l’alinéa suivant : 
 
-"L’administration ne peut soumettre à redevance les demandes de réutilisations dont les données résultantes sont soumises à une rediffusion publique exhaustive sous un format ouvert et dont la libre réutilisation est autorisée dans les mêmes termes."  »
+"L’administration ne peut soumettre à redevance les demandes de réutilisations dont les données résultantes sont soumises à une rediffusion publique exhaustive sous un format ouvert et dont la libre réutilisation est autorisée dans les mêmes termes." »
 
 ##Exposé des motifs
 
@@ -177,17 +177,17 @@ Réécrire l'alinéa 4 comme suit :
 
 Cet amendement est un amendement de clarification : la version actuelle de cet alinéa pourrait en effet faire penser que des licences pour réutilisation à titre gratuit pourraient déroger à la liste fixée par décret.
 
-De plus, que la réutilisation soit à titre gratuite ou non, les réutilisateurs professionnels comme citoyens sont en attente d'une simplification du mécanisme des licences. Soumettre toute création de licence à un décret semble donc aller dans ce sens.
+De plus, que la réutilisation soit à titre gratuit ou non, les réutilisateurs professionnels comme citoyens sont en attente d'une simplification du mécanisme des licences. Soumettre toute création de licence à un décret semble donc aller dans ce sens.
 
 Ces dispositions reprennent les suggestions retenues par le Conseil National du Numérique lors de la consultation « Pour une République numérique ».
- 
+
 ##À l'article 7
 
 À l'alinéa 4, remplacer « homologuée par l’État », par « homologuée par l'autorité administrative chargée de faciliter et de coordonner la mise à disposition des données publiques en vue de faciliter leur réutilisation ».
 
 ###Exposé des motifs
 
-Cet amendement vise à s'assurer que la mission Étalab, principale autorité reconnue compétente en matière d'Open Data, soit bien chargée de l'homologation des licences plutôt que des administrations beaucoup moins favorables à l'Open Data.
+En reprenant la formulation employée dans la loi Thévenoud pour désigner Étalab, cet amendement vise à s'assurer que la mission Étalab, principale autorité reconnue compétente en matière d'Open Data, soit bien chargée de l'homologation des licences plutôt que des administrations beaucoup moins favorables à l'Open Data.
 
 #Open data pour l'IGN, le SHOM et le prix du carburant
 
