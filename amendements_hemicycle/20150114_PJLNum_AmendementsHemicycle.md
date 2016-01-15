@@ -203,15 +203,13 @@ Par le paiement de leurs impôts, les citoyens et entreprises françaises contri
 
 ##À l'article 7 bis
 
-A l'alinéa 2, ajouter après le mot « statistiques » les mot « et par les administrations en charge de la collecte du prix des carburants »
+À l'alinéa 2, ajouter après le mot « statistiques » les mots « et par les administrations dont les missions incluent la collecte du prix des carburants ».
 
 ###Exposé des motifs
 
-Le ministère de l'économie collecte quotidiennement les prix du carburant de toutes les stations essences françaises. Les données « temps réelles » sont vendues plusieurs milliers d'euros. Sous la pression, Bercy a rendu public qu'une partie des données qu'elle produisait et après une période qui rend innutilisables ces données par les citoyens.
+Le ministère de l'économie collecte quotidiennement les prix du carburant de toutes les stations essences françaises. L'accès et la réutilisation des données « temps réel » est vendu plusieurs milliers d'euros. Sous la pression, Bercy a rendu public une partie seulement des données qu'elle produisait et uniquement après un délai rendant impossible l'exploitation de ces données par les citoyens.
 
-Au vu du peu d'acheteurs et du nombre de citoyens exclus de la réutilisation de ces données, cette politique de freenium est un echec. Cet amendement propose donc de faire entre la base carburant pleinement dans l'Open Data.
-
-L'intéret général est un bon compromis je trouve sur les délégations de service public, pas nécessaire de supprimer les exceptions à mon sens
+Au vu du peu d'acheteurs et du nombre de citoyens exclus de la réutilisation de ces données, cette politique de freemium est un echec. Cet amendement propose donc de faire entrer la base des prix du carburant pleinement dans l'Open Data.
 
 #Open data pour les PPP
 
