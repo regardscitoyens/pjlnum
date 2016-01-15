@@ -24,7 +24,7 @@ L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et
 
 ##À l'article 4
 
-A l'alinéa 2, remplacer les mots « à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un seuil fixé par décret » par « disposant d'un site Internet ».
+À l'alinéa 2, remplacer les mots « , à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un seuil fixé par décret » par « disposant d'un site Internet ».
 
 ###Exposé des motifs
 
@@ -36,11 +36,13 @@ Le coût de publication en ligne étant quasi nul lorsqu'une administration poss
 
 ##À l'article 4
 
-Ajouter un alinéa après l'alinéa 6 : « Le ministère de l'économie publie tous les ans dans un format librement réutilisable le nombre d'agents ou de salariés des personnes morales appartenant aux administrations mentionnées au premier alinéa de l'article L.300-2 »
+Après l'alinéa 6, insérer l'alinéa suivant :
+
+« Le ministère de l'économie publie tous les ans dans un standard ouvert librement réutilisable le nombre d'agents ou de salariés des personnes morales appartenant aux administrations mentionnées au premier alinéa de l'article L. 300-2. »
 
 ###Exposé des motifs
 
-Afin de permettre à tous de savoir quelles sont les administrations qui sont visées par les dispositions visées par le présent article, il parait important que soient publiée sur un lieu unique les informations sur le nombre d'agents ou de salariés des personnes morales devant mettre en oeuvre cette politique Open Data.
+Afin de permettre à tous de savoir quelles administrations sont visées par les dispositions visées par le présent article, il paraît important que soit publié sur un lieu unique les informations sur le nombre d'agents ou de salariés des personnes morales devant mettre en œuvre cette politique Open Data.
 
 #Estimer l'intérêt économique, social ou environnemental
 
@@ -77,6 +79,7 @@ L'Open Data ne concernant pas les données liées à la vie privée, il est impo
 Aujourd'hui, faute de précision, des données portant sur la probité d'agents publics ne sont pas communicables aux citoyens. De même, certaines publications comme les concours, les nominations d'agents publics ou les organigrammes des institutions ne font pas l'objet d'un encadrement juridique garantissant la communication de ces documents même s'il est d'usage de les faire rentrer dans ce cadre.
 
 Cette disposition a été suggéré par la CADA dans son avis sur le présent projet de loi et s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
+
 
 #Open Data des archives
 
