@@ -4,7 +4,7 @@
 
 Ajouter un alinéa ainsi rédigé : 
 
-« Ajouter à la fin de l'alinéa 4 de l'article L311-2 les mots suivants "dont le demandeur n'est pas à l'origine" »
+« Ajouter à la fin de l'alinéa 4 de l'article L311-2 les mots suivants "sauf si le demandeur en est à l'origine" »
 
 ###Exposé des motifs
 
@@ -210,5 +210,5 @@ Au premier alinéa de l'article L. 342-1 du code des relations entre le public e
 
 Les deux chambres françaises font figure d'exemple dans le monde pour la diversité et quasi-exhaustivité de la publication de leurs documents parlementaires. Les dernières avancées en la matière avec les programmes Open Data de l'Assemblée comme du Sénat, la publication de la réserve parlementaire, de rattachement financier aux partis politiques ou encore du registre des représentants d'intérêts, montrent l'engagement continu du Parlement français pour une transparence forte.
 
-L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement légitimable par la seule séparation des pouvoirs.
+L'exception au droit des citoyens à saisir la CADA sur un possible refus d'accès à des documents de l'administration parlementaire font tristement ombre à ce tableau. Il convient donc de lever cette exception difficilement légitimable par la seule séparation des pouvoirs. En effet entre 1978 et 2000, les parlement étaient pleinement soumis aux dispositions de la loi CADA. De plus, dans un rapport de 1999, la 7ème sous-section de l'Assemblée du contentieux du Conseil d'état a estimé que la séparation des pouvoirs ne s'opposait pas à ce que l'Assemblée Nationale soit soumise aux règles administratives en vigueur.
 
