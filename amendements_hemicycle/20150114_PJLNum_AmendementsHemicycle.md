@@ -111,7 +111,7 @@ La loi CADA s'applique à l'ensemble des administrations centrales comme territo
 
 ##À l'article 4
 
-À l'alinéa 9, après les mots « comportent des données à caractère personnel », insérer les mots suivants : « portant atteinte à la protection de la vie privée ».
+À l'alinéa 9, après les mots « comportent des données à caractère personnel », insérer les mots suivants : « dont la diffusion porterait atteinte à la protection de la vie privée ».
 
 ###Exposé des motifs
 
