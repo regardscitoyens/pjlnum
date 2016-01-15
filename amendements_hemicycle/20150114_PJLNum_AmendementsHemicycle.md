@@ -103,13 +103,15 @@ Supprimer l'alinéa 7.
 
 ###Exposé des motifs
 
-Au vu des difficultés d'application des dispositions Open Data de la loi NOTRe, il est souhaitable de ne pas faire de cas particulier entre les différents types d'administration. La loi CADA s'applique à l'ensemble des administrations centrales comme territoriales, il n'est donc pas souhaitable que cet article déroge à la règle.
+Au vu des difficultés d'application des dispositions Open Data de la loi NOTRe, il est souhaitable de ne pas faire de cas particulier entre les différents types d'administration.
+
+La loi CADA s'applique à l'ensemble des administrations centrales comme territoriales, il n'est donc pas souhaitable que cet article déroge à la règle.
 
 #Open Data et vie privée
 
 ##À l'article 4
 
-A l'alinéa 9, ajouter après « comportent des données à caractère personnel » les mots « qui portent atteinte à la protection de la vie privée ».
+À l'alinéa 9, après les mots « comportent des données à caractère personnel », insérer les mots suivants : « portant atteinte à la protection de la vie privée ».
 
 ###Exposé des motifs
 
@@ -117,18 +119,17 @@ L'Open Data ne concernant pas les données liées à la vie privée, il est impo
 
 Aujourd'hui, faute de précision, des données portant sur la probité d'agents publics ne sont pas communicables aux citoyens. De même, certaines publications comme les concours, les nominations d'agents publics ou les organigrammes des institutions ne font pas l'objet d'un encadrement juridique garantissant la communication de ces documents même s'il est d'usage de les faire rentrer dans ce cadre.
 
-Cette disposition a été suggéré par la CADA dans son avis sur le présent projet de loi et s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
-
+Cette disposition a été suggérée par la CADA dans son avis sur le présent projet de loi et s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
 
 #Open Data des archives
 
 ##À l'article 4
 
-Compléter l'alinéa 11 des mots suivants : « lorsque celles-ci ne sont pas disponibles sous forme électronique. »
+Compléter l'alinéa 10 des mots suivants : « lorsque celles-ci ne sont pas disponibles sous forme électronique. ».
 
 ###Exposé des motifs
 
-Les archives font un formidable effort de selection et de numérisation du patrimoine public français. Il parait absurde de les exclure de la valorisation offerte par les dispositions de cette loi. Sans cette valorisation, le législateur prend le risque de voir les missions de service public disparaître faute de visibilité.
+Les archives font un formidable effort de selection et de numérisation du patrimoine public français. Il paraît absurde de les exclure de la valorisation offerte par les dispositions de cette loi. Sans cette valorisation, le législateur prend le risque de voir les missions de service public disparaître faute de visibilité.
 
 Si pour les documents non numérisés, il semble trop problématique de les rendre librement accessibles aux citoyens, rien ne fait obstacle à leur communication à tous lorsque ces documents existent sous une forme dématérialisée.
 
