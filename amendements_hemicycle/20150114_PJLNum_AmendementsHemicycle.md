@@ -153,11 +153,11 @@ Cette pratique est qualifiée de politique de "double licences". Elle permet d'a
 
 Cet amendement vise donc à lever les barrières économiques lorsque le réutilisateur joue le jeu de la contribution.
 
-#Droit d'auteur des fonctionnaires et l'Open Data
+#Droit d'auteur des fonctionnaires et Open Data
 
 ##À l'article 7
 
-À l'alinéa 2, remplacer « des articles L. 342-1 et L. 342-2 » par « des articles L. 131-3-1, L. 131-3-2, L. 131-3-3, L. 342-1 et L. 342-2 ».
+À l'alinéa 3, remplacer « des articles L. 342-1 et L. 342-2 » par « des articles L. 131-3-1, L. 131-3-2, L. 131-3-3, L. 342-1 et L. 342-2 ».
 
 ###Exposé des motifs
 
