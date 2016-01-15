@@ -19,6 +19,45 @@ Ajouter un alinéa ainsi rédigé :
 ###Exposé des motifs
 
 L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et leurs administrations parfois en faisant intervenir un médiateur comme la CADA. Il est dommage que certaines administrations ne jouent plus le jeu de ce dialogue une fois qu'elles ont publié des données en Open Data. Cet amendement propose donc d'assurer que le lien entre citoyens et administrations ne soit plus rompu.
+#Des formats ouverts réellement réutilisables
+
+## À l'article 1 ter
+
+À l'alinéa 2, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, lisible par une machine et pouvant être exploité par un système de traitement automatisé ».
+
+À l'alinéa 4, remplacer les mots « format ouvert » par « standard ouvert et aisément réutilisable, lisible par une machine et pouvant être exploité par un système de traitement automatisé ».
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
+
+## À l'article 4
+
+Aux alinéas 2 et 5, après les mots « lisible par une machine » insérer les mots suivants : « et pouvant être exploité par un système de traitement automatisé ».
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
+
+## À l'article 6
+
+Compléter la dernière phrase de l'alinéa 6 des mots suivants : « et pouvant être exploité par un système de traitement automatisé ». 
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
 
 #Des seuils plus pertinents pour l'Open Data
 
