@@ -1,10 +1,10 @@
 #Open Data : un outil de dialogue
 
-##A l'article 1 ter
+##À l'article 1 ter
 
 Ajouter un alinéa ainsi rédigé : 
 
-« Ajouter à la fin de l'alinéa 4 de l'article L311-2 les mots suivants "sauf si le demandeur en est à l'origine" »
+« 3° Ajouter à la fin de l'alinéa 4 de l'article L. 311-2 les mots suivants : "excepté lorsque le demandeur en est à l'origine". »
 
 ###Exposé des motifs
 
@@ -12,17 +12,58 @@ Cet article 1 ter met en oeuvre une vraie avancée pour la transparence démocra
 
 ##À l'article 1 ter
 
-Ajouter un alinéa ainsi rédigé : « supprimer l'alinéa 4 de l'article L311-2 »
+Ajouter un alinéa ainsi rédigé :
+
+« Supprimer l'alinéa 4 de l'article L. 311-2. »
 
 ###Exposé des motifs
 
-L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et leurs administrations parfois en faisant intervenir un médiateur comme la CADA. Il est dommage que certaines administrations ne jouent plus le jeux de ce dialogue une fois qu'elles ont publiées des données en Open Data. Cet amendement propose donc d'assurer que le lien entre citoyens et administrations ne soit plus rompu.
+L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et leurs administrations parfois en faisant intervenir un médiateur comme la CADA. Il est dommage que certaines administrations ne jouent plus le jeu de ce dialogue une fois qu'elles ont publié des données en Open Data. Cet amendement propose donc d'assurer que le lien entre citoyens et administrations ne soit plus rompu.
+#Des formats ouverts réellement réutilisables
+
+## À l'article 1 ter
+
+À l'alinéa 2, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, lisible par une machine et pouvant être exploité par un système de traitement automatisé ».
+
+À l'alinéa 4, remplacer les mots « format ouvert » par « standard ouvert et aisément réutilisable, lisible par une machine et pouvant être exploité par un système de traitement automatisé ».
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
+
+## À l'article 4
+
+Aux alinéas 2 et 5, après les mots « lisible par une machine » insérer les mots suivants : « et pouvant être exploité par un système de traitement automatisé ».
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
+
+## À l'article 6
+
+Compléter la dernière phrase de l'alinéa 6 des mots suivants : « et pouvant être exploité par un système de traitement automatisé ». 
+
+###Exposé des motifs
+
+Amendement de précision et cohérence rédactionnelle. La définition explicite d'un format ouvert introduite en commission des lois à l'article 21 semble la plus à même de clarifier en droit français le terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+
+Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
+
+De plus, le fait que des données Open Data soient accessibles sans avoir recours à des manipulations humaines du type « création de compte » ou autre interprétation de mise ne page est un enjeu important pour l'émergence de l'Open Data.
 
 #Des seuils plus pertinents pour l'Open Data
 
 ##À l'article 4
 
-A l'alinéa 2, remplacer les mots « à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un seuil fixé par décret » par « disposant d'un site Internet ».
+À l'alinéa 2, remplacer les mots « , à l'exception des personnes morales dont le nombre d'agents ou de salariés est inférieur à un seuil fixé par décret » par « disposant d'un site Internet ».
 
 ###Exposé des motifs
 
@@ -34,11 +75,13 @@ Le coût de publication en ligne étant quasi nul lorsqu'une administration poss
 
 ##À l'article 4
 
-Ajouter un alinéa après l'alinéa 6 : « Le ministère de l'économie publie tous les ans dans un format librement réutilisable le nombre d'agents ou de salariés des personnes morales appartenant aux administrations mentionnées au premier alinéa de l'article L.300-2 »
+Après l'alinéa 6, insérer l'alinéa suivant :
+
+« Le ministère de l'économie publie tous les ans dans un standard ouvert librement réutilisable le nombre d'agents ou de salariés des personnes morales appartenant aux administrations mentionnées au premier alinéa de l'article L. 300-2. »
 
 ###Exposé des motifs
 
-Afin de permettre à tous de savoir quelles sont les administrations qui sont visées par les dispositions visées par le présent article, il parait important que soient publiée sur un lieu unique les informations sur le nombre d'agents ou de salariés des personnes morales devant mettre en oeuvre cette politique Open Data.
+Afin de permettre à tous de savoir quelles administrations sont visées par les dispositions visées par le présent article, il paraît important que soit publié sur un lieu unique les informations sur le nombre d'agents ou de salariés des personnes morales devant mettre en œuvre cette politique Open Data.
 
 #Estimer l'intérêt économique, social ou environnemental
 
@@ -48,9 +91,9 @@ Afin de permettre à tous de savoir quelles sont les administrations qui sont vi
 
 ###Exposé des motifs
 
-Les administrations estimant que leurs données présentent un intérêt économique, social ou environnemental n'ont pas besoin d'une incitation législative pour les publier en Open Data. Le vrai avantage des mesuress législatives en matière d'Open Data est d'offrir l'opportunité à d'autres acteurs que le producteur de données publiques de juger de leur intérêt.
+Les administrations estimant que leurs données présentent un intérêt économique, social ou environnemental n'ont pas besoin d'une incitation législative pour les publier en Open Data. Le vrai avantage des mesures législatives en matière d'Open Data est d'offrir l'opportunité à d'autres acteurs que le seul producteur de données publiques de juger de leur intérêt.
 
-Un publication initiée par l'administration comme l'organise cet article proviendra toujours d'une décision interne. Il est donc pas nécessaire de le mentionner.
+Une publication initiée par l'administration comme l'organise cet article proviendra toujours d'une décision interne. Il n'est donc pas nécessaire de le mentionner.
 
 #Un même droit pour l'État et les collectivités
 
@@ -60,13 +103,15 @@ Supprimer l'alinéa 7.
 
 ###Exposé des motifs
 
-Au vu des difficultés d'application des dispositions Open Data de la loi NOTRe, il est souhaitable de ne pas faire de cas particulier entre les différents types d'administration. La loi CADA s'applique à l'ensemble des administrations centrales comme territoriales, il n'est donc pas souhaitable que cet article déroge à la règle.
+Au vu des difficultés d'application des dispositions Open Data de la loi NOTRe, il est souhaitable de ne pas faire de cas particulier entre les différents types d'administration.
+
+La loi CADA s'applique à l'ensemble des administrations centrales comme territoriales, il n'est donc pas souhaitable que cet article déroge à la règle.
 
 #Open Data et vie privée
 
 ##À l'article 4
 
-A l'alinéa 9, ajouter après « comportent des données à caractère personnel » les mots « qui portent atteinte à la protection de la vie privée ».
+À l'alinéa 9, après les mots « comportent des données à caractère personnel », insérer les mots suivants : « dont la diffusion porterait atteinte à la protection de la vie privée ».
 
 ###Exposé des motifs
 
@@ -74,17 +119,17 @@ L'Open Data ne concernant pas les données liées à la vie privée, il est impo
 
 Aujourd'hui, faute de précision, des données portant sur la probité d'agents publics ne sont pas communicables aux citoyens. De même, certaines publications comme les concours, les nominations d'agents publics ou les organigrammes des institutions ne font pas l'objet d'un encadrement juridique garantissant la communication de ces documents même s'il est d'usage de les faire rentrer dans ce cadre.
 
-Cette disposition a été suggéré par la CADA dans son avis sur le présent projet de loi et s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
+Cette disposition a été suggérée par la CADA dans son avis sur le présent projet de loi et s'inscrit de plus dans la continuité des lois sur la transparence de la vie publique du 11 octobre 2013 et de l'analyse qui en a été faite par le Conseil Constitutionnel.
 
 #Open Data des archives
 
 ##À l'article 4
 
-Compléter l'alinéa 11 des mots suivants : « lorsque celles-ci ne sont pas disponibles sous forme électronique. »
+Compléter l'alinéa 10 des mots suivants : « lorsque celles-ci ne sont pas disponibles sous forme électronique. ».
 
 ###Exposé des motifs
 
-Les archives font un formidable effort de selection et de numérisation du patrimoine public français. Il parait absurde de les exclure de la valorisation offerte par les dispositions de cette loi. Sans cette valorisation, le législateur prend le risque de voir les missions de service public disparaître faute de visibilité.
+Les archives font un formidable effort de selection et de numérisation du patrimoine public français. Il paraît absurde de les exclure de la valorisation offerte par les dispositions de cette loi. Sans cette valorisation, le législateur prend le risque de voir les missions de service public disparaître faute de visibilité.
 
 Si pour les documents non numérisés, il semble trop problématique de les rendre librement accessibles aux citoyens, rien ne fait obstacle à leur communication à tous lorsque ces documents existent sous une forme dématérialisée.
 
