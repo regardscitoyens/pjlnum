@@ -169,7 +169,7 @@ Cette disposition permettra de résoudre les problèmes rencontrés par certaine
 
 ##À l'article 7
 
-Réécrire l'alinéa 4 comme suit :
+Réécrire l'alinéa 5 comme suit :
 
 « Lorsqu’une administration souhaite recourir à une licence, cette licence doit être préalablement homologuée par l’État, dans des conditions fixées par décret. Lorsque les réutilisations à titre gratuit donnent lieu à l’établissement d’une licence, cette licence est choisie parmi celles figurant sur une liste fixée par décret. »
 
@@ -183,7 +183,7 @@ Ces dispositions reprennent les suggestions retenues par le Conseil National du 
 
 ##À l'article 7
 
-À l'alinéa 4, remplacer « homologuée par l’État », par « homologuée par l'autorité administrative chargée de faciliter et de coordonner la mise à disposition des données publiques en vue de faciliter leur réutilisation ».
+À l'alinéa 5, remplacer « homologuée par l’État », par « homologuée par l'autorité administrative chargée de faciliter et de coordonner la mise à disposition des données publiques en vue de faciliter leur réutilisation ».
 
 ###Exposé des motifs
 
@@ -211,19 +211,21 @@ Le ministère de l'économie collecte quotidiennement les prix du carburant de t
 
 Au vu du peu d'acheteurs et du nombre de citoyens exclus de la réutilisation de ces données, cette politique de freemium est un echec. Cet amendement propose donc de faire entrer la base des prix du carburant pleinement dans l'Open Data.
 
-#Open data pour les PPP
+#Open Data pour les PPP
 
 ##À l'article 10
 
 Compléter l'article de trois nouveaux alinéas formant un IV ainsi rédigé :
 
-« IV. – Après l’article L. 1414-2-1 du code général des collectivités territoriales, il est inséré un article ainsi rédigé : " Art. L. 1414-2-2 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l’occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation. " »
+« IV. – Après l’article L. 1414-2-1 du code général des collectivités territoriales, il est inséré un article ainsi rédigé :
+
+" Art. L. 1414-2-2 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l’occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation. " »
 
 ###Exposé des motifs
 
-Comme pour la majorité des délégations de services publics, les nouvelles dispositions relatives à la transparence des marchés publics ne sont pas suffisant pour permettre aux acteurs publics d'évaluer et participer à la gouvernance d'une partenariat public privé.
+Comme pour la majorité des délégations de service public, les nouvelles dispositions relatives à la transparence des marchés publics ne sont pas suffisantes pour permettre aux acteurs publics d'évaluer et de participer à la gouvernance d'un partenariat public privé.
 
-Afin de permettre à tous les citoyens et leurs représentants d'évaluer la pertinence des partenariats publics privés, il faut donc comme pour les délégations de service public que les personnes publiques partenaires de ces contrats soient en mesure de disposer et rediffuser les données publiques produites ou collectées.
+Afin de permettre à tous les citoyens et leurs représentants d'évaluer la pertinence des partenariats publics privés, il faut donc comme pour les délégations de service public que les personnes publiques partenaires de ces contrats soient en mesure de disposer et de rediffuser les données publiques produites ou collectées.
 
 Cette disposition d'Open Data pour les PPP a été l'une des plus soutenues sur la plateforme de consultation « Pour une République numérique ».
 
