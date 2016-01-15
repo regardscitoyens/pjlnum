@@ -191,15 +191,15 @@ En reprenant la formulation employée dans la loi Thévenoud pour désigner Éta
 
 #Open data pour l'IGN, le SHOM et le prix du carburant
 
-##À l'article 7bis
+##À l'article 7 bis
 
-A l'alinéa 2, ajouter après le mot « statistiques » les mot « et par les administrations ayant vocation de décrire la surface du territoire national, l'occupation de son sol et son environnement physique marin »
+À l'alinéa 2, ajouter après le mot « statistiques » les mots « et par les administrations dont les missions incluent de décrire la surface du territoire national, l'occupation de son sol et son environnement physique marin ».
 
 ###Exposé des motifs
 
-Faire entrer la base SIRENE dans l'Open Data est une excellante nouvelle pour les citoyens et les entreprises françaises. Il est fortement dommageable que les activités des services publics comme l'ING ou le SHOM ne puissent profiter d'une telle politique ambitieuse.
+Faire entrer la base SIRENE dans l'Open Data est une excellante nouvelle pour les citoyens et les entreprises françaises. Il est fortement dommageable que les activités des services publics comme l'IGN ou le SHOM ne puissent profiter d'une telle politique ambitieuse.
 
-Par le paiement de leurs impots, les citoyens et entreprises françaises contribuent pourtant grandement à leurs savoirs-faires sans pouvoir profiter de leurs travaux : leurs productions ne sont accessibles qu'après paiement de redevances extremement onéreuses. Le rapport Trojette a pu montrer que ces redevances ne rapportent réellement que très peu d'argent à ces administrations et qu'il est rarement affecté à la production ou la diffusion de ces informations.
+Par le paiement de leurs impôts, les citoyens et entreprises françaises contribuent pourtant grandement à leurs savoirs-faires sans pouvoir profiter de leurs travaux : leurs productions ne sont accessibles qu'après paiement de redevances extrêmement onéreuses. Le rapport Trojette a pu montrer que ces redevances ne rapportent réellement que très peu d'argent à ces administrations et qu'il est rarement affecté à la production ou la diffusion de ces informations.
 
 ##À l'article 7 bis
 
