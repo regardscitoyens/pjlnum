@@ -219,7 +219,7 @@ Compléter l'article de trois nouveaux alinéas formant un IV ainsi rédigé :
 
 « IV. – Après l’article L. 1414-2-1 du code général des collectivités territoriales, il est inséré un article ainsi rédigé :
 
-" Art. L. 1414-2-2 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l’occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation. " »
+"Art. L. 1414-2-2 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l’occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation." »
 
 ###Exposé des motifs
 
