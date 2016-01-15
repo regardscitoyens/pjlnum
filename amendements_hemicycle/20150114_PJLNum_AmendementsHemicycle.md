@@ -1,10 +1,10 @@
 #Open Data : un outil de dialogue
 
-##A l'article 1 ter
+##À l'article 1 ter
 
 Ajouter un alinéa ainsi rédigé : 
 
-« Ajouter à la fin de l'alinéa 4 de l'article L311-2 les mots suivants "sauf si le demandeur en est à l'origine" »
+« 3° Ajouter à la fin de l'alinéa 4 de l'article L. 311-2 les mots suivants : "excepté lorsque le demandeur en est à l'origine". »
 
 ###Exposé des motifs
 
@@ -12,11 +12,13 @@ Cet article 1 ter met en oeuvre une vraie avancée pour la transparence démocra
 
 ##À l'article 1 ter
 
-Ajouter un alinéa ainsi rédigé : « supprimer l'alinéa 4 de l'article L311-2 »
+Ajouter un alinéa ainsi rédigé :
+
+« Supprimer l'alinéa 4 de l'article L. 311-2. »
 
 ###Exposé des motifs
 
-L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et leurs administrations parfois en faisant intervenir un médiateur comme la CADA. Il est dommage que certaines administrations ne jouent plus le jeux de ce dialogue une fois qu'elles ont publiées des données en Open Data. Cet amendement propose donc d'assurer que le lien entre citoyens et administrations ne soit plus rompu.
+L'une des forces de la loi CADA est d'établir un dialogue entre les citoyens et leurs administrations parfois en faisant intervenir un médiateur comme la CADA. Il est dommage que certaines administrations ne jouent plus le jeu de ce dialogue une fois qu'elles ont publié des données en Open Data. Cet amendement propose donc d'assurer que le lien entre citoyens et administrations ne soit plus rompu.
 
 #Des seuils plus pertinents pour l'Open Data
 
