@@ -91,9 +91,9 @@ Afin de permettre à tous de savoir quelles administrations sont visées par les
 
 ###Exposé des motifs
 
-Les administrations estimant que leurs données présentent un intérêt économique, social ou environnemental n'ont pas besoin d'une incitation législative pour les publier en Open Data. Le vrai avantage des mesuress législatives en matière d'Open Data est d'offrir l'opportunité à d'autres acteurs que le producteur de données publiques de juger de leur intérêt.
+Les administrations estimant que leurs données présentent un intérêt économique, social ou environnemental n'ont pas besoin d'une incitation législative pour les publier en Open Data. Le vrai avantage des mesures législatives en matière d'Open Data est d'offrir l'opportunité à d'autres acteurs que le seul producteur de données publiques de juger de leur intérêt.
 
-Un publication initiée par l'administration comme l'organise cet article proviendra toujours d'une décision interne. Il est donc pas nécessaire de le mentionner.
+Une publication initiée par l'administration comme l'organise cet article proviendra toujours d'une décision interne. Il n'est donc pas nécessaire de le mentionner.
 
 #Un même droit pour l'État et les collectivités
 
