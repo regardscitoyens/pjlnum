@@ -1,6 +1,6 @@
 # Homogénéisation des formats
 
-## À l'article 1 ter
+## À l'article 1er ter
 
 Aux alinéas 2 et 4, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, c'est-à-dire pouvant être exploité par un système de traitement automatisé ».
 
@@ -56,13 +56,13 @@ Amendement de cohérence.
 
 # L'Open Data doit être mis à jour régulièrement
 
-## À l'article 1ter
+## À l'article 1er ter
 
-À l'alinéa 2, après les mots « de publier », ajouter « régulièrement »
+À l'alinéa 2, après les mots « de publier », ajouter « régulièrement ».
 
 ### Exposé des motifs
 
-Il est important que l'Open Data qui est mis à disposition aux citoyens doit mis à jour régulièrement. Malheureusement, de nombreuses données aujourd'hui mises en ligne ne font pas l'objet de publication règulière. Les informations aujourd'hui mises à disposition des citoyens en Open Data sont donc plus pertinentes.
+Il est important que l'Open Data mis à disposition des citoyens soit mis-à-jour régulièrement. Malheureusement, de nombreuses données aujourd'hui mises en ligne ne font pas l'objet de publication règulière. De nombreuses informations déjà mises à disposition des citoyens en Open Data ne sont ainsi plus pertinentes à ce jour.
 
 # Le droit d'auteur des fonctionne ne peut s'opposer à l'Open Data 
 
