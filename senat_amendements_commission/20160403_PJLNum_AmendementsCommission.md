@@ -4,9 +4,9 @@
 
 Aux alinéas 2 et 4, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, c'est-à-dire pouvant être exploité par un système de traitement automatisé ».
 
-###Exposé des motifs
+### Exposé des motifs
 
-Amendement de précision et cohérence rédactionnelle, vise à homogénéiser la formulation jurisique du terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
+Amendement de précision et cohérence rédactionnelle, vise à homogénéiser la formulation juridique du terme « lisible par une machine », très utilisé dans les communautés Open Data mais juridiquement flou.
 
 Des données publiées sous la forme de documents PDF seraient techniquement "lisibles par une machine" mais en aucun cas réutilisables en Open Data par un outil programmatique automatisé.
 
@@ -54,7 +54,7 @@ Amendement de cohérence.
 
 Amendement de cohérence.
 
-# L'Open Data doit être mis-à-jour régulièrement
+# L'Open Data doit être mis à jour régulièrement
 
 ## À l'article 1er ter
 
@@ -62,7 +62,7 @@ Amendement de cohérence.
 
 ### Exposé des motifs
 
-Il est important que l'Open Data mis à disposition des citoyens soit mis-à-jour régulièrement. Malheureusement, de nombreuses données aujourd'hui mises en ligne ne font pas l'objet de publication règulière. De nombreuses informations déjà mises à disposition des citoyens en Open Data ne sont ainsi plus pertinentes à ce jour.
+Il est important que l'Open Data mis à disposition des citoyens soit mis à jour régulièrement. Malheureusement, de nombreuses données aujourd'hui mises en ligne ne font pas l'objet de publication règulière. De nombreuses informations déjà mises à disposition des citoyens en Open Data ne sont ainsi plus pertinentes à ce jour.
 
 # Le droit d'auteur des fonctionnaires ne peut s'opposer à l'Open Data 
 
@@ -74,4 +74,4 @@ Il est important que l'Open Data mis à disposition des citoyens soit mis-à-jou
 
 Cet amendement vise à s'assurer que lorsque des agents publics possèdent des droits sur les données qu'ils ont participé à produire, ceux-ci soient reconnus mais ne fassent pas entrave à la libre réutilisation en Open Data.
 
-Cette disposition permettra de résoudre les problèmes rencontrés par certaines administrations dans la libération de données publiques (base Mérimée, accès à la doctrine, fonds de documentation des armées...).
+Cette disposition permettra de résoudre les problèmes rencontrés par certaines administrations lors de la libération de données publiques (base Mérimée, accès à la doctrine, fonds de documentation des armées...).
