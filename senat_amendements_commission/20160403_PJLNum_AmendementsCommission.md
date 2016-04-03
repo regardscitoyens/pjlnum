@@ -2,9 +2,7 @@
 
 ## À l'article 1 ter
 
-À l'alinéa 2, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, c'est-à-dire pouvant être exploité par un système de traitement automatisé ».
-
-À l'alinéa 4, remplacer les mots « format ouvert » par « standard ouvert et aisément réutilisable, c'est-à-dire pouvant être exploité par un système de traitement automatisé ».
+Aux alinéas 2 et 4, remplacer les mots « format ouvert et aisément réutilisable » par « standard ouvert et aisément réutilisable, c'est-à-dire pouvant être exploité par un système de traitement automatisé ».
 
 ###Exposé des motifs
 
