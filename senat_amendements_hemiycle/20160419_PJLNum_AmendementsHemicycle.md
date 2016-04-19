@@ -112,6 +112,8 @@ Compléter l'alinéa 12, par les mots « lorsque ceux-ci ne sont pas en format �
 
 La publication de documents ayant un coût marginal nul, afin de valoriser justement le travail réalisé par les archives françaises, il convient de ne pas les exclure des dispositions de cet article.
 
+Cette disposition permettra d'alléger considérablement les charges liées à l'accueil du public souhaitant consulter les archives disponibles numériquement. En effet, l'équipement massif des salles de lecture en informatique va couter beaucoup plus cher que la mise en place de sites, voir d'un site national, permettant aux archives de publier au fil de l'eau les documents demandés par les citoyens.
+
 ## Article 7
 
 À l'alinéa 3, après les mots « au titre des articles » ajouter les mots « L. 131-3-1, L. 131-3-2, L. 131-3-3, ».
