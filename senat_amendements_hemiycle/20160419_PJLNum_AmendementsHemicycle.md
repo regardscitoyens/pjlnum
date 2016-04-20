@@ -2,7 +2,7 @@
 
 ## Article 1er ter 
 
-À l'alinéa 3, supprimer les mots «, si possible, »
+À l'alinéa 3, supprimer les mots «, si possible, ».
 
 ### *Exposé des motifs*
 
@@ -14,7 +14,7 @@ Tous les réutilisateurs de données publiques auditionnés par la commission de
 
 Après l'alinéa 4, insérer un alinéa ainsi rédigé :
 
-« Compléter le premier alinéa de l'article L.311-1 avec la phrase "Les données mises en ligne sont régulièrement mises à jour." »
+« Compléter le premier alinéa de l'article L.311-1 avec la phrase "Les données mises en ligne sont régulièrement mises à jour." ».
 
 ### *Exposé des motifs*
 
@@ -24,23 +24,23 @@ Le mouvement de l'Open Data montre qu'une des sources de valeur sociale comme é
 
 ## Article 1er ter
 
-A l'alinéa 4, après les mots « de publier en ligne » ajouter le mot « ou »
+À l'alinéa 4, après les mots « de publier en ligne » ajouter le mot « ou ».
 
 ### *Exposé des motifs*
 
-Amendement de cohérence rédactionnelle
+Amendement de cohérence syntaxique et rédactionnelle.
 
 ## Article 1er ter
 
-A l'alinéa 6, supprimer la dernière phrase
+À l'alinéa 6, supprimer la dernière phrase.
 
 ### *Exposé des motifs*
 
-Limiter un droit à un « nombre significatif de personnes » est une proposition discrétionnaire et floue. Il convient donc de supprimer cette disposition.
+Limiter un droit à la condition d'une demande par un « nombre significatif de personnes » est une proposition peu normative, discrétionnaire et floue. Il convient donc de supprimer cette disposition.
 
 ## Article 4
 
-Supprimer à l'alinéa 1.
+Supprimer l'alinéa 1.
 
 ### *Exposé des motifs*
 
