@@ -44,31 +44,31 @@ Supprimer l'alinéa 1.
 
 ### *Exposé des motifs*
 
-Cet alinéa vise à introduire dans le droit public français une notion qui n'existe pas encore dans le droit européen : le secret de affaires. Si la directive européenne sur la question est en cours de finalisation dans les institutions européennes, elle n'est pas transcrite en droit français.
+Cet alinéa vise à introduire dans le droit public français une notion qui n'existe pas encore dans le droit européen : le secret des affaires. Si la directive européenne sur la question est en cours de finalisation dans les institutions européennes, elle n'est pas transcrite en droit français.
 
 De plus, ce chapitre porte sur les données produites par des acteurs publics (ou leurs délégataires de service public), acteurs pour lesquels un devoir de transparence sur la manière dont ils gèrent leurs « affaires » est nécessaire. Imposer le secret aux acteurs publics, aux délégataires de services publics, aux attributaires de marchés publics ou aux gérants de partenariats public-privé aura un impact catastrophique en termes de gestion des services publics et de confiance des citoyens dans ces derniers.
 
-De plus, comme l'a rappelé le 6 janvier 2005 la CADA, la notion de « secret en matière commerciale et industrielle » est une notion très stable en matière doctrinale qui comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales. Il est donc totalement inutile d'alourdir le code des relations entre le public et l'administration en reprenant des notions très bien couvertes par le code de propriété intellectuelle.
+De plus, comme l'a rappelé le 6 janvier 2005 la CADA, la notion de « secret en matière commerciale et industrielle » est une notion très stable en matière doctrinale qui comprend le secret des procédés, des informations économiques et financières et des stratégies commerciales. Il est donc totalement inutile d'alourdir le code des relations entre le public et l'administration en reprenant des notions déjà très bien couvertes par le code de propriété intellectuelle.
 
 ## Article 4
 
-A l'alinéa 4, supprimer les mots « et à condition que ces documents aient fait l'objet de demandes de communication émanant d'un nombre significatif de personnes ».
+À l'alinéa 4, supprimer les mots « et à condition que ces documents aient fait l'objet de demandes de communication émanant d'un nombre significatif de personnes ».
 
 ### *Exposé des motifs*
 
-Par cohérence avec l'article 1er, et comme le terme « nombre significatif de personnes » est totalement flou, il convient de supprimer cette disposition.
+Par cohérence avec l'article 1er ter, et comme la formulation « nombre significatif de personnes » est totalement floue et discrétionnaire, il convient de supprimer cette disposition.
 
 ## Article 4
 
-A l'alinéa 6, supprimer les mots « et qui ne font pas l'objet d'une diffusion publique par ailleurs ».
+À l'alinéa 6, supprimer les mots « et qui ne font pas l'objet d'une diffusion publique par ailleurs ».
 
 ### *Exposé des motifs*
 
-Il existe des bases de données qui font l'objet de diffusion publique et qui ne sont pas disponibles en Open Data alors que les données concernées ne contiennent pas de données liées à la vie privée. C'est le cas notamment de la base des indicateurs financiers des collectivités territoriales, de la base Mérimée ou de la base Transparence Santé. Pour ces trois bases, la conversion en Open Data serait beaucoup moins coûteuse que les sites qui ont été conçus pour les publier et permettrait à des citoyens d'offrir de nombreuses analyses pertinentes sur leur contenu comme ont pu le démontrer notamment les travaux de Regards Citoyens ou de « Wiki loves monuments » sur leurs réutilisations partielles.
+Il existe des bases de données qui font l'objet de diffusion publique et qui ne sont pas disponibles en Open Data alors que les données concernées ne contiennent pas de données liées à la vie privée. C'est le cas notamment de la base des indicateurs financiers des collectivités territoriales, de la base Mérimée ou de la base Transparence Santé. Pour ces trois bases de données, la diffusion en Open Data serait beaucoup moins coûteuse que la réalisation des sites qui ont été conçus pour consulter leurs contenus et permettrait à des citoyens d'offrir de nombreuses analyses pertinentes sur leur contenu comme ont pu le démontrer notamment les travaux de Regards Citoyens ou de « Wiki loves monuments » avec leurs réutilisations partielles.
 
 ## Article 4
 
-A l'alinéa 7, supprimer les mots « pour le »
+À l'alinéa 7, supprimer les mots « pour le ».
 
 ### *Exposé des motifs*
 
@@ -78,7 +78,7 @@ Le terme « intérêt pour le public » n'est pas une notion juridique claire. �
 
 ## Article 4
 
-Supprimer l'alinéa 8
+Supprimer l'alinéa 8.
 
 ### *Exposé des motifs*
 
