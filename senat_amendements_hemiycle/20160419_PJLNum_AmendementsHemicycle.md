@@ -118,7 +118,7 @@ Cette disposition permettra de résoudre les problèmes rencontrés par certaine
 
 ## Article 7
 
-À l'alinéa 6, remplacer « homologuée par l’État », par « homologuée par l'autorité administrative chargée de faciliter et de coordonner la mise à disposition des données publiques en vue de faciliter leur réutilisation ».
+À l'alinéa 6, remplacer « homologuée par l'État », par « homologuée par l'autorité administrative chargée de faciliter et de coordonner la mise à disposition des données publiques en vue de faciliter leur réutilisation ».
 
 ### *Exposé des motifs*
 
@@ -126,13 +126,11 @@ En reprenant la formulation employée dans la loi Thévenoud pour désigner Éta
 
 # Partage de l'information juridique
 
-## Article 7bis
+## Article 7 bis
 
-Après l'alinéa 2, ajouter un I.b ainsi rédigé :
+Après l'alinéa 2, compléter le nouvel article L. 324-5-1 d'un nouvel alinéa ainsi rédigé :
 
-« La réutilisation des informations publiques produites par les services du premier ministre, la Cour de cassation ou le Conseil d'État ne peut donner lieu au versement d'une redevance.
-
-La perte de recettes pour l'État est compensée à due concurrence par la création d'une taxe additionnelle aux droits mentionnés aux articles 575 et 575 A du code général des impôts. »
+« La réutilisation des informations publiques produites par les services du Premier ministre, la Cour de cassation ou le Conseil d'État ne peut donner lieu au versement d'une redevance. La perte de recettes pour l'État est compensée à due concurrence par la création d'une taxe additionnelle aux droits mentionnés aux articles 575 et 575 A du code général des impôts. »
 
 ### *Exposé des motifs*
 
