@@ -136,41 +136,41 @@ Après l'alinéa 2, compléter le nouvel article L. 324-5-1 d'un nouvel alinéa 
 
 Contrairement aux engagements pris par la France au G8, la jurisprudence française n'est pas librement accessible et réutilisable par les citoyens français. Elle est pourtant essentielle pour comprendre le droit.
 
-Pourtant produite par des administrations publiques dont une des missions est de diffuser ces informations, la jurisprudence n'est aujourd'hui accessible qu'au travers d'acteurs privés qui les vendent à des prix excluant beaucoup de citoyens.
+Pourtant produite par des administrations publiques dont l'une des missions est de diffuser ces informations, la jurisprudence n'est aujourd'hui accessible qu'au travers d'acteurs privés qui les vendent à des prix excluant beaucoup de citoyens.
 
 De plus, une partie des données exploitées par les « éditeurs juridiques » leur sont fournies de manière non anonymisée ce qui est contraire aux dispositions de la loi CADA. Cette disposition permettra donc aux services de la DILA tout comme au Conseil d'État et à la Cour de cassation de ne plus diffuser illégalement des données violant la vie privée de nombreux justiciables.
 
-## Après l'article 7bis
+## Après l'article 7 bis
 
-À l’article L. 300-2 du code des relations entre le public et l’administration, après les mots : « prévisions et décisions », sont insérés les mots : « et les jugements, ordonnances, décisions ou arrêts rendus par les juridictions de l’ordre judiciaire ou administratif ».
+À l’article L. 300-2 du code des relations entre le public et l'administration, après les mots : « prévisions et décisions », sont insérés les mots : « et les jugements, ordonnances, décisions ou arrêts rendus par les juridictions de l'ordre judiciaire ou administratif ».
 
 ### *Exposé des motifs*
 
-La CADA a considéré jusqu'à aujourd'hui que les documents qui émanaient des juridictions n'entraient pas dans le champ de l'article 2 de la loi du 17 juillet 1978 devenu articles L. 311-1 et L. 311-2 du code des relations entre le public et l'administration.
+La CADA a considéré jusqu'aujourd'hui que les documents émanant des juridictions n'entraient pas dans le champ de l'article 2 de la loi du 17 juillet 1978 devenu articles L. 311-1 et L. 311-2 du code des relations entre le public et l'administration.
 
-La directive 2003/98/CE (ou directive PSI) a étendu la notion de « documents existants détenus par des organismes du secteur public » : « La publicité de tous les documents généralement disponibles qui sont détenus par le secteur public — non seulement par la filière politique, mais également par la filière judiciaire et la filière administrative — constitue un instrument essentiel pour développer le droit à la connaissance, principe fondamental de la démocratie. Cet objectif est applicable aux institutions, et ce, à tous les niveaux, tant local que national et international. »
+La directive 2003/98/CE (ou directive PSI) a étendu la notion de « documents existants détenus par des organismes du secteur public » : « La publicité de tous les documents généralement disponibles qui sont détenus par le secteur public — non seulement par la filière politique, mais également par la filière judiciaire et la filière administrative — constitue un instrument essentiel pour développer le droit à la connaissance, principe fondamental de la démocratie. Cet objectif est applicable aux institutions, et ce, à tous les niveaux, tant local que national et international. ».
 
-Données publiques en leur principe même, les décisions jurisprudentielles participent des sources du droit. La diffusion de la production jurisprudentielle française garantit le respect des principes de transparence du pouvoir judicaire et de publicité des débats, elle permet aussi de préserver la confiance des citoyens dans la justice. Enfin et surtout, la connaissance de la jurisprudence permet aux justiciables, citoyens comme entreprises, de comprendre ce qui est prévisible dans la justice et d’apprécier la possibilité d’une solution à l’amiable et négociée de leur litige.
+Données publiques en leur principe même, les décisions jurisprudentielles participent des sources du droit. La diffusion de la production jurisprudentielle française garantit le respect des principes de transparence du pouvoir judicaire et de publicité des débats, elle permet aussi de préserver la confiance des citoyens dans la justice. Enfin et surtout, la connaissance de la jurisprudence permet aux justiciables, citoyens comme entreprises, de comprendre ce qui est prévisible dans la justice et d'apprécier la possibilité d'une solution à l'amiable et négociée de leur litige.
 
 # Open Data pour les marchés publics et les PPP
 
 ## Article 10
 
-A l'alinéa 7, supprimer les mots « à la seule fin de préparer une nouvelle procédure de passation ou la reconduction du contrat »
+À l'alinéa 7, supprimer les mots « à la seule fin de préparer une nouvelle procédure de passation ou la reconduction du contrat ».
 
 ### *Exposé des motifs*
 
-Afin de mieux inclure les acteurs publics dans la gouvernances des projets menés via des procédure de marché public, il convient de ne pas restreindre la capacité de partage des données produites dans le cadre du marché aux seules fins de la préparation d'un nouveau contrat.
+Afin de mieux inclure les acteurs publics dans la gouvernance des projets menés via des procédures de marché public, il convient de ne pas restreindre la capacité de partage des données produites dans le cadre du marché aux seules fins de la préparation d'un nouveau contrat.
 
-Sans accès aux données liés aux missions confiées à l'attributaire, les acteurs publis sont régulièrement totalement dépossédés de la compréhension et du fonctionnement du marché et ne peuvent donc évaluer la qualité du travail réalisé par le prestataire.
+Sans accès aux données liées aux missions confiées à l'attributaire, les acteurs publics sont régulièrement dépossédés de la compréhension et du fonctionnement du marché et ne peuvent donc évaluer la qualité du travail réalisé par le prestataire.
 
 ## Article 10
 
-Compléter l'article de trois nouveaux alinéas formant un IV ainsi rédigé :
+Compléter l'article de deux nouveaux alinéas formant un IV ainsi rédigé :
 
 « IV. – Après l’article L. 1414-2 du code général des collectivités territoriales, il est inséré un article ainsi rédigé :
 
-"Art. L. 1414-2-1 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l’occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation." »
+"Art. L. 1414-2-1 – Le cocontractant fournit à la personne publique, dans un standard ouvert aisément réutilisable, les données et bases de données collectées ou produites à l'occasion de l’exécution du contrat. Il autorise par ailleurs la personne morale de droit public, ou un tiers désigné par celle-ci, à extraire et exploiter librement tout ou partie de ces données et bases de données, notamment en vue de leur mise à disposition à titre gratuit à des fins de réutilisation." »
 
 ### *Exposé des motifs* 
 
