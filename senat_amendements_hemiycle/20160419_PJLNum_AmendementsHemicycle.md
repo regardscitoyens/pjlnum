@@ -14,7 +14,7 @@ Tous les réutilisateurs de données publiques auditionnés par la commission de
 
 Après l'alinéa 4, insérer un alinéa ainsi rédigé :
 
-« Compléter le premier alinéa de l'article L.311-1 avec la phrase "Les données mises en ligne sont régulièrement mises à jour." ».
+« Compléter le premier alinéa de l'article L. 311-1 avec la phrase "Les données mises en ligne sont régulièrement mises à jour." ».
 
 ### *Exposé des motifs*
 
@@ -82,7 +82,7 @@ Supprimer l'alinéa 8.
 
 ### *Exposé des motifs*
 
-Les diffusions portant atteinte aux secrets protégés en application des articles L. 311-5 et L. 311-6 étant interdites, il est inutile d'alourdir les procédures administratives liées à l'Open Data.
+Les diffusions portant atteinte aux secrets protégés en application des articles L. 311-5 et L. 311-6 étant interdites, il est inutile d'alourdir les procédures administratives liées à l'Open Data.L
 
 Si la diffusion d'information publique à des réutilisateurs sélectionnés de manière discrétionnaire a fait l'objet de publications ne respectant pas ces secrets (base des immatriculations, jurisprudence, données statistiques sur la fiscalité, ...), ça n'a pas été le cas pour des jeux de données publiés en Open Data. La libération en Open Data de ces données a toujours permis de prévenir ces mésusages notamment avec l'aide des communautés.
 
@@ -92,7 +92,7 @@ Supprimer l'alinéa 10
 
 ### *Exposé des motifs*
 
-Cet alinéa reprend une disposition déjà existante dans le code des relations entre le public et l'administration à l'article L312-1. Il est donc sans objet.
+Cet alinéa reprend une disposition déjà existante dans le code des relations entre le public et l'administration à l'article L. 312-1. Il est donc sans objet.
 
 ## Article 4
 
@@ -156,7 +156,7 @@ De plus, une partie des données exploitées par les « éditeurs juridiques » 
 
 ### *Exposé des motifs*
 
-La CADA a considéré jusqu'à aujourd'hui que les documents qui émanaient des juridictions n'entraient pas dans le champ de l'article 2 de la loi du 17 juillet 1978 devenu articles L311-1 et L311-2 du code des relations entre le public et l'administration.
+La CADA a considéré jusqu'à aujourd'hui que les documents qui émanaient des juridictions n'entraient pas dans le champ de l'article 2 de la loi du 17 juillet 1978 devenu articles L. 311-1 et L. 311-2 du code des relations entre le public et l'administration.
 
 La directive 2003/98/CE (ou directive PSI) a étendu la notion de « documents existants détenus par des organismes du secteur public » : « La publicité de tous les documents généralement disponibles qui sont détenus par le secteur public — non seulement par la filière politique, mais également par la filière judiciaire et la filière administrative — constitue un instrument essentiel pour développer le droit à la connaissance, principe fondamental de la démocratie. Cet objectif est applicable aux institutions, et ce, à tous les niveaux, tant local que national et international. »
 
