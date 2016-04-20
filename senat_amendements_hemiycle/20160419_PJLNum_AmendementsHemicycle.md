@@ -1,6 +1,6 @@
 # Suppression des dispositions anti-Open Data
 
-## Article 1ter 
+## Article 1er ter 
 
 A l'alinéa 3, supprimer les mots «, si possible, »
 
@@ -10,7 +10,7 @@ L'un des piliers de l'Open Data est l'absence de barrière technique. Chaque cit
 
 Tous les réutilisateurs de données publiques, dont Regards Citoyens, auditionnés par la commission des lois du Sénat se sont clairement exprimés pour un recours systématique aux standards ouverts dans le cadre de la politique d'Open Data française.
 
-## Article 1ter
+## Article 1er ter
 
 Après l'alinéa 4, insérer un alinéa ainsi rédigé :
 
@@ -22,7 +22,7 @@ Le mouvement de l'Open Data montre qu'une des sources de valeur sociale comme é
 
 \newpage
 
-## Article 1ter
+## Article 1er ter
 
 A l'alinéa 4, après les mots « de publier en ligne » ajouter le mot « ou »
 
@@ -30,7 +30,7 @@ A l'alinéa 4, après les mots « de publier en ligne » ajouter le mot « ou »
 
 Amendement de cohérence rédactionnelle
 
-## Article 1ter
+## Article 1er ter
 
 A l'alinéa 6, supprimer la dernière phrase
 
