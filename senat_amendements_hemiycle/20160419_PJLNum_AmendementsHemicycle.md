@@ -192,7 +192,7 @@ Ajouter un nouvel article ainsi rédigé :
 
 ### *Exposé des motifs*
 
-Aujourd'hui, afin de légitimement pemettre à des administrations de faire payer des gros acteurs tels que Google, Microsoft, Garmin ou Lexis Nexis, les citoyens ou les petites entreprises françaises sont dans l'incapacité d'accéder en Open Data aux données publiques à très forte valeur sociale (données géographiques, juridiques, météorologiques ou maritimes).
+Aujourd'hui, afin de légitimement permettre à des administrations de faire payer des gros acteurs tels que Google, Microsoft, Garmin ou Lexis Nexis, les citoyens ou les petites entreprises françaises sont dans l'incapacité d'accéder en Open Data aux données publiques à très forte valeur sociale (données géographiques, juridiques, météorologiques ou maritimes).
 
 Or, l'Open Data n'exclue pas le fait de faire payer pour des données à condition que ces dispositions ne bloquent pas les usages contributifs. Ce mécanisme est possible grâce aux licences de type « partage à l'identique ». Ces licences sont connues pour préserver le bien commun : elles autorisent la réutilisation de biens numériques mais imposent la re-distribution dans les mêmes termes. Le bien numérique ainsi encadré rejoint donc un écosystème de biens communs à la disposition de tous qui bénéficient des améliorations produites par chacun, sans possibilité d'enclosure par un tiers.
 
