@@ -180,4 +180,23 @@ Afin de permettre à tous les citoyens et leurs représentants d'évaluer la per
 
 Cette disposition d'Open Data pour les PPP a été l'une des plus soutenues sur la plateforme de consultation « Pour une République numérique ».
 
+# Rendre compatible la vente de données avec l'Open Data
+
+## Après l'article 6
+
+Ajouter un nouvel article ainsi rédigé :
+
+« Ajouter à l’article L324-1 de la Code des relations entre le public et l'administration , l’alinéa suivant : 
+
+"L’administration ne peut soumettre à redevance les demandes de réutilisations dont les données résultantes sont soumises à une rediffusion publique exhaustive sous un format ouvert et dont la libre réutilisation est autorisée dans les mêmes termes." »
+
+### *Exposé des motifs*
+
+Aujourd'hui, afin de légitimement pemettre à des administrations de faire payer des gros acteurs tels que Google, Microsoft, Garmin ou Lexis Nexis, les citoyens ou les petites entreprises françaises sont dans l'incapacité d'accéder en Open Data aux données publiques à très forte valeur sociale (données géographiques, juridiques, météorologiques ou maritimes).
+
+Or, l'Open Data n'exclue pas le fait de faire payer pour des données à condition que ces dispositions ne bloquent pas les usages contributifs. Ce mécanisme est possible grâce aux licences de type « partage à l'identique ». Ces licences sont connues pour préserver le bien commun : elles autorisent la réutilisation de biens numériques mais imposent la re-distribution dans les mêmes termes. Le bien numérique ainsi encadré rejoint donc un écosystème de biens communs à la disposition de tous qui bénéficient des améliorations produites par chacun, sans possibilité d'enclosure par un tiers.
+
+Cette pratique est qualifiée de politique de "double licences". Elle permet d'autoriser l'innovation et la création de valeur par le plus grand nombre tout en conservant aux administrations leur clientèle classique moins disposée à partager les données qu'elles "mixent" avec celles des administrations, préservant ainsi la sensation de garder un avantage concurentiel.
+
+Cet amendement vise donc à lever les barrières économiques lorsque le réutilisateur joue le jeu de la contribution.
 
