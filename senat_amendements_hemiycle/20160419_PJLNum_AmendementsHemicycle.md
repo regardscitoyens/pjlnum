@@ -1,14 +1,14 @@
-# Suppression des dispositions anti-Open Data
+# Suppression des dispositions anti-OpenData
 
 ## Article 1er ter 
 
-A l'alinéa 3, supprimer les mots «, si possible, »
+À l'alinéa 3, supprimer les mots «, si possible, »
 
 ### *Exposé des motifs*
 
-L'un des piliers de l'Open Data est l'absence de barrière technique. Chaque citoyen doit être en mesure de pouvoir lire et réutiliser les données publiques sans que lui soit imposé l'usage ou l'achat d'un logiciel particulier. Les seuls standards qui garantissent cette non discrimination sont les standards et formats ouverts. Introduire des dérogations à leur recours va permettre aux administrations d'imposer aux citoyens l'achat de logiciels pour pouvoir lire ou réutiliser les données publiques qu'elles détiennent, voire, comme l'IGN, de vendre ses standards qui enferment les données publiques fournies aux citoyens.
+L'un des piliers de l'Open Data est l'absence de barrière technique. Chaque citoyen doit être en mesure de pouvoir lire et réutiliser les données publiques sans que lui soit imposé l'usage ou l'achat d'un logiciel particulier. Les seuls standards qui garantissent cette non discrimination sont les standards et formats ouverts. Introduire des dérogations à leur recours imposera aux citoyens l'achat de logiciels pour pouvoir lire ou réutiliser les données publiques qu'elles détiennent, voire, comme l'IGN, de vendre des standards qui enferment les données publiques fournies aux citoyens.
 
-Tous les réutilisateurs de données publiques, dont Regards Citoyens, auditionnés par la commission des lois du Sénat se sont clairement exprimés pour un recours systématique aux standards ouverts dans le cadre de la politique d'Open Data française.
+Tous les réutilisateurs de données publiques auditionnés par la commission des lois du Sénat, dont Regards Citoyens, se sont clairement exprimés pour un recours systématique aux standards ouverts dans le cadre de la politique d'Open Data française.
 
 ## Article 1er ter
 
