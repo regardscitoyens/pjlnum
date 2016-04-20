@@ -82,21 +82,13 @@ Supprimer l'alinéa 8.
 
 ### *Exposé des motifs*
 
-Les diffusions portant atteinte aux secrets protégés en application des articles L. 311-5 et L. 311-6 étant interdites, il est inutile d'alourdir les procédures administratives liées à l'Open Data.L
+Les diffusions portant atteinte aux secrets protégés en application des articles L. 311-5 et L. 311-6 étant interdites, il est inutile d'alourdir les procédures administratives liées à l'Open Data.
 
-Si la diffusion d'information publique à des réutilisateurs sélectionnés de manière discrétionnaire a fait l'objet de publications ne respectant pas ces secrets (base des immatriculations, jurisprudence, données statistiques sur la fiscalité, ...), ça n'a pas été le cas pour des jeux de données publiés en Open Data. La libération en Open Data de ces données a toujours permis de prévenir ces mésusages notamment avec l'aide des communautés.
-
-## Article 4
-
-Supprimer l'alinéa 10
-
-### *Exposé des motifs*
-
-Cet alinéa reprend une disposition déjà existante dans le code des relations entre le public et l'administration à l'article L. 312-1. Il est donc sans objet.
+Si la diffusion d'informations publiques à des réutilisateurs sélectionnés de manière discrétionnaire a fait l'objet de publications ne respectant pas ces secrets (base des immatriculations, jurisprudence, données statistiques sur la fiscalité...), cela n'a pas été le cas pour des jeux de données publiés en Open Data. La libération en Open Data de ces données a toujours permis de prévenir ces mésusages notamment grâce à l'aide des communautés.
 
 ## Article 4
 
-A l'alinéa 11, après les mots « données à caractère personnel » ajouter « ne portant pas atteinte à la vie privée ».
+À l'alinéa 11, après les mots « données à caractère personnel » ajouter « ne portant pas atteinte à la vie privée ».
 
 ### *Exposé des motifs*
 
