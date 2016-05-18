@@ -55,3 +55,6 @@ Par cohérence avec les dispositions proposées à l'article 12 bis A :
  - Supprimer l'alinéa 3.
  - Supprimer l'alinéa 5.
 
+## Article 46 bis (nouveau) : itinérance
+
+À l'alinéa 2, remplacer « directive 2022/22/CE » par « directive 2002/22/CE » : *correction d'une erreur de saisie. À noter que cette référence à la directive de 2002 a été ajoutée par les services légistiques du Sénat sans que la directive n'aie aucunement été évoquée dans l'amendement introduisant l'article ni dans les débats correspondants.*
