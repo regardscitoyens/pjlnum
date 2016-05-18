@@ -2,15 +2,15 @@
 %**Note de Regards Citoyens suite à la lecture au Sénat**
 %![](logo.png "")
 
-Lors des débats en hémicycle, le sénateurs ont corrigé un certain nombre des reculs votés en commission des lois sur la partie Open Data du projet de loi République Numérique. Malheureusement, le travail des sénateurs n'a pas été suffisant et il reste beaucoup d'incohérences dans le texte issu du Sénat.
+Lors des débats en hémicycle, les sénateurs ont corrigé un certain nombre des reculs votés en commission des lois sur la partie Open Data du projet de loi République Numérique. Il reste cependant un grand nombre de dangers pour l'OpenData et plusieurs incohérences dans le texte issu du Sénat.
 
 Pour que cette loi soit applicable et qu'elle engage un nouveau souffle pour l'Open Data en France, il est important que la CMP :
 
- - revienne à l'écriture de l'Assemblée pour l'article 1er te, en cohérence avec les dispositions du Sénat sur l'article 4 ;
- - rende cohérentes les dispositions d'Open Data sur les marchés publics et les PPP en permettant un accès raisonnable aux données issues de ces délégataires de services publics (article 4);
- - revoie les dispositions relatives à l'anonymisation afin de les rendre compréhensibles et effectivement applicables (article 4, 12 bis A et 12 bis B)
- - n'impose pas aux administrations des licences qui soient incompatibles avec les standards internationaux et empêchent l'Open Data (article 7)
- - fasse rentrer pleinement l'AFNOR dans l'ère de l'Open Data afin que les normes françaises puissent être accessibles à toutes les entreprises et à tous les citoyens français (article 4 ter)
+ - revienne à l'écriture de l'Assemblée pour l'article 1er ter, en cohérence avec les dispositions du Sénat sur l'article 4 ;
+ - rende cohérentes les dispositions d'Open Data sur les marchés publics et les PPP en permettant un accès raisonnable aux données issues de ces délégataires de service public (article 4) ;
+ - revoie les dispositions relatives à l'anonymisation afin de les rendre compréhensibles et effectivement applicables (articles 4, 12 bis A et 12 bis B) ;
+ - n'impose pas aux administrations des licences qui soient incompatibles avec les standards internationaux et empêchent l'Open Data (article 7) ;
+ - fasse rentrer pleinement l'AFNOR dans l'ère de l'Open Data afin que les normes françaises puissent être accessibles à toutes les entreprises et à tous les citoyens français (article 4 ter).
 
 ## Article 1er ter
 
