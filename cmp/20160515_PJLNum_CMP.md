@@ -8,7 +8,7 @@ Pour que cette loi soit applicable et qu'elle engage un nouveau souffle pour l'O
 
  - revienne à l'écriture de l'Assemblée pour l'article 1er ter, en cohérence avec les dispositions du Sénat sur l'article 4 ;
  - rende cohérentes les dispositions d'Open Data sur les marchés publics et les PPP en permettant un accès raisonnable aux données issues de ces délégataires de service public (article 4) ;
- - revoie les dispositions relatives à l'anonymisation afin de les rendre compréhensibles et effectivement applicables (articles 4, 12 bis A et 12 bis B) ;
+ - revoie les dispositions relatives à l'anonymisation afin de les rendre compréhensibles et applicables (articles 4, 12 bis A et 12 bis B) ;
  - n'impose pas aux administrations des licences qui soient incompatibles avec les standards internationaux et empêchent l'Open Data (article 7) ;
  - fasse rentrer pleinement l'AFNOR dans l'ère de l'Open Data afin que les normes françaises puissent être accessibles à toutes les entreprises et à tous les citoyens français (article 4 ter).
 
